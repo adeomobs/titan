@@ -313,7 +313,7 @@
 
         <!--<div class="row" style="margin-top:50px;">
           <div class="col-md-12">
-            <div class="owl-partners owl-carousel">
+            <div class="owl-partners owl-carouse">
             
               <div class="partner-item col-md-6">
                 <img src="assets/images/lagos-state.jpg" title="LAGOS STATE GOVERNMENT" alt="LAGOS STATE GOVERNMENT">
